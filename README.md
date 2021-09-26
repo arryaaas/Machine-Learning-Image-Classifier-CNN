@@ -1,1 +1,1 @@
-# Machine-Learning-Image-Classifier
+# Machine-Learning-Image-Classifier-CNN
