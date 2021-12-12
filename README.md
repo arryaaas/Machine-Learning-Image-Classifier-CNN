@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-Classification-CNN
+# RPS-Classification-CNN
