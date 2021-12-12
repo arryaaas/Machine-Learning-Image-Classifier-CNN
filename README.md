@@ -1,1 +1,1 @@
-# Machine-Learning-Image-Classifier-CNN
+# Rock-Paper-Scissors-CNN
